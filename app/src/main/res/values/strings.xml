@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toast_no_internet">No internet connection</string>
+    <string name="toast_time_out">Time out</string>
+    <string name="toast_try_after_sometimes">Try after some time</string>
+    <string name="toast_something_wrong">Something wrong</string>
+
+
+</resources>
